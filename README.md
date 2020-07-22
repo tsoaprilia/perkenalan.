@@ -4,3 +4,5 @@
 # Alamat Asal : Kabupaten Malang
 # Hobi : Membaca
 # IG : @cristyanaapriliadwi
+# Foto terbaik :)
+![Alt text](https://github.com/tsoaprilia/perkenalan./blob/master/Aku.jfif)
